@@ -3,13 +3,12 @@
 ## 1. 習得スキル・使用ツール
 * **ドキュメント管理**:`VS Code` を用いたMarkdown作成
 * **プログラミング**:`Python` の基礎（データ分析）
-```
-python
+```python
 import numpy as np
 data = [80, 90, 75, 85]
-print("平均点:"
-, np.mean(data))
+print("平均点:", np.mean(data))
 ```
+
 ## 2. 前期の履修成績
 | 科目名 | 単位数 | 評価 |
 | :--- | :---: | :---: |
